@@ -1,0 +1,11 @@
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\bin\Debug\AmobaProjekt.exe.config
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\bin\Debug\AmobaProjekt.exe
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\bin\Debug\AmobaProjekt.pdb
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.csprojAssemblyReference.cache
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.Form1.resources
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.jatekForm.resources
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.Properties.Resources.resources
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.csproj.GenerateResource.cache
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.exe
+C:\Users\felhasználó\source\repos\AmobaProjekt\AmobaProjekt\obj\Debug\AmobaProjekt.pdb
